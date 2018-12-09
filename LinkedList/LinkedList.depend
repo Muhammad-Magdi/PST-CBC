@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1544297242 source:/home/muhammad/Desktop/CBC/main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1544297067 /home/muhammad/Desktop/CBC/include/LinkedList.h
+	"Contact.h"
+	<string>
+
+1544292463 /home/muhammad/Desktop/CBC/include/Contact.h
+	<string>
+
+1544292514 source:/home/muhammad/Desktop/CBC/src/Contact.cpp
+	"Contact.h"
+	<string>
+
+1544297058 source:/home/muhammad/Desktop/CBC/src/LinkedList.cpp
+	"LinkedList.h"
+	"Contact.h"
+	<string>
+
